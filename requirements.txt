@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+ipykernel
+langchain_groq
+langchain_openai
+
+
+-e . #is for the local project/package
