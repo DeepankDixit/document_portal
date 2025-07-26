@@ -9,4 +9,7 @@ langchain-text-splitters==0.3.8
 pypdf
 faiss-cpu
 ipykernel
-# -e . #I am already running pip install -e .
+azure-identity==1.23.1
+structlog
+PyMuPDF
+# -e . #I am already running pip install -e .azure-identity==1.23.1
