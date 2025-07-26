@@ -1,0 +1,1 @@
+#advised to keep .gitkeep inside a folder as without it Git doesn't recognizes empty folders when you push them without files
