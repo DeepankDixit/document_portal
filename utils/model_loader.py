@@ -101,3 +101,5 @@ if __name__ == "__main__":
     #test the ModelLoader
     result = llm_model.invoke("Hello, how are you?")
     print(result)
+    result_emb = embedding_model.embed_query("Hello, how are you?")
+    print(result_emb)
